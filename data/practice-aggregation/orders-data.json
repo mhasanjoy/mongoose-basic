@@ -1,0 +1,62 @@
+[
+  {
+    "_id": 1,
+    "order_number": "ORD-001",
+    "customer_id": 1,
+    "total_amount": 100.0
+  },
+  {
+    "_id": 2,
+    "order_number": "ORD-002",
+    "customer_id": 2,
+    "total_amount": 150.0
+  },
+  {
+    "_id": 3,
+    "order_number": "ORD-003",
+    "customer_id": 1,
+    "total_amount": 200.0
+  },
+  {
+    "_id": 4,
+    "order_number": "ORD-004",
+    "customer_id": 3,
+    "total_amount": 75.0
+  },
+  {
+    "_id": 5,
+    "order_number": "ORD-005",
+    "customer_id": 2,
+    "total_amount": 80.0
+  },
+  {
+    "_id": 6,
+    "order_number": "ORD-006",
+    "customer_id": 3,
+    "total_amount": 120.0
+  },
+  {
+    "_id": 7,
+    "order_number": "ORD-007",
+    "customer_id": 1,
+    "total_amount": 90.0
+  },
+  {
+    "_id": 8,
+    "order_number": "ORD-008",
+    "customer_id": 2,
+    "total_amount": 60.0
+  },
+  {
+    "_id": 9,
+    "order_number": "ORD-009",
+    "customer_id": 3,
+    "total_amount": 180.0
+  },
+  {
+    "_id": 10,
+    "order_number": "ORD-010",
+    "customer_id": 1,
+    "total_amount": 250.0
+  }
+]
