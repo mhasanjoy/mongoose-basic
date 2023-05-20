@@ -1,5 +1,7 @@
 # Basic Mongoose
 
+Mongoose Interface, Schema, Model. Insert data, find data, field filtering. Modular Architecture. Instance method, static method. Mongodb queries, aggregation.
+
 ### Query on `users-data.json`, `orders-data.json`, `customers-data.json`
 
 1.  Find all users who are located in New York. <br />
