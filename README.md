@@ -1,6 +1,6 @@
 # Basic Mongoose
 
-Mongoose Interface, Schema, Model. Insert data, find data, field filtering. Modular Architecture. Instance method, static method. Mongodb queries, aggregation.
+Mongoose Interface, Schema, Model. Insert data, find data, field filtering. Modular Architecture. Instance method, static method. Mongodb queries, update data, delete data, aggregation.
 
 ### Query on `users-data.json`, `orders-data.json`, `customers-data.json`
 
